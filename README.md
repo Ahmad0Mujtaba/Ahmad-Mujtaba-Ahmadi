@@ -1,2 +1,7 @@
-# Ahmad-Mujtaba-Ahmadi
-Academic website and research portfolio of Ahmad Mujtaba Ahmadi
+# Ahmad Mujtaba Ahmadi
+
+Welcome to my academic website repository.
+
+This website showcases my research interests, publications, and academic activities.
+
+Website: https://yourusername.github.io
